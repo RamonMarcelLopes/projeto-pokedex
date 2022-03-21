@@ -1,7 +1,7 @@
 # projeto pokedex  BlueTech
 
 # descrição  do projeto 
-
+projeto pokedex Blue
 
 # stacks
 javascript;
