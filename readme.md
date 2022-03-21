@@ -14,5 +14,5 @@ ejs;
 
 # personal
 ramon lopes
-<a href="www.linkedin.com/in/ramon-lopes-santana" > link </a>
+<a href="" > www.linkedin.com/in/ramon-lopes-santana</a>
 
