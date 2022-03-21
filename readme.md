@@ -2,7 +2,7 @@
 
 # descrição  do projeto 
 
-esse projeto é uma  pokedex que foi feito para fins de aprendizado do modulo2 na escola  de  DEV  BluEdTech
+esse projeto é uma  pokedex que foi feito para fins de aprendizado do modulo2 na escola  de  DEV  BlueEdTech
 
 # stacks
 
