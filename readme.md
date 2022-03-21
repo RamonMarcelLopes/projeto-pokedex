@@ -10,9 +10,9 @@ HTML5;
 nodemon;
 express;
 node.js;
+ejs;
 
 # personal
 ramon lopes
-<a href="" > link </a>
-<a href="mailto:emaill" > </a>
+<a href="www.linkedin.com/in/ramon-lopes-santana" > link </a>
 
