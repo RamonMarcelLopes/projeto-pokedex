@@ -1,0 +1,68 @@
+
+* {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+header{
+    background-color: red;
+}
+body{
+    height: 100vh;
+    width: 100%;
+    
+
+background-color: rgb(185, 189, 189);
+}
+
+#card-contender{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content:space-around;
+    text-align: center;
+    width: 600px;
+    height: 600px;
+    border: solid 5px black;
+    margin: 5px;
+    background-color: rgb(255, 251, 4);
+    border-radius: 10px;
+}
+#all{
+    display: flex;
+justify-content: center;
+align-items:center;
+}
+#top{
+    display: flex;
+    justify-content:space-around;
+}
+
+.top{
+    display: flex;
+    font-size: 40px;
+    justify-content:space-around;
+}
+#ftPokemon{
+    height: 250px;
+    width: 250px;
+}
+#titulo{
+    font-size: 80px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+#pokebola{
+    width: 90px;
+
+height: 90px;
+}
+#tittle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}

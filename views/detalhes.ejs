@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/detalhes.css" type="text/css">
+    <title>details</title>
+    <link rel="shortcut icon" href="https://www.pngmart.com/files/2/Pokeball-PNG-Image.png">
+</head>
+<body>
+
+<header>
+<div id="tittle">
+    <span id="titulo">pokemon</span>
+   <img id="pokebola"  src="https://www.pngmart.com/files/2/Pokeball-PNG-Image.png" alt="foto de pokebola">
+</div>
+</header>
+
+<div id="tudo">
+
+ <% pokemonAtual.forEach(element => { %>
+  
+   
+   
+<div id="all">
+    <div id="card-contender">
+        
+        <div id="header-card"> 
+            <span class="top"> id:<%= element.id %>   </span>
+            <span class="top">nome: <%= element.name %>   </span> 
+        </div>
+        <div id="main-card"> 
+            <img id="ftPokemon" src="<%= element.img %> " alt="fotoDoPokemon">
+            
+            <span class="top"> peso;<%= element.weight %>  </span>
+            <span class="top"> altura:<%= element.height %> </span>
+            <div class="top">numero:<%= element.num %> </div>
+        </div>
+        <div class="top"> tipo: <%= element.type %>  </div>
+        
+    </div>
+</a>
+    <% }) %>
+
+
+</div>
+</div>
+</body>
+</html>

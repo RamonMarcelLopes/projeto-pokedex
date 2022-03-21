@@ -1,0 +1,76 @@
+
+* {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+body{
+        height: 100vh;
+        width: 100%;
+   
+   
+    background-color: rgb(118, 185, 185);
+}
+#card-contender{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:space-around;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border: solid 5px black;
+    margin: 5px;
+    background-color: rgb(255, 251, 4);
+    border-radius: 10px;
+    box-shadow: 5px 1px 10px 1px #b13f3b;
+   
+    
+}
+
+#card-contender:hover{
+    transform: scale(1.5);
+    background-color: rgb(235, 235, 235);
+}
+
+#top{
+    margin-right: 60px;
+   
+}
+a {
+    text-decoration: none;
+}
+
+#tudo{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+justify-content: space-evenly;
+}
+#teto{
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+header{
+    height:10%;
+    background-color: rgb(233, 10, 10);
+    text-align: center;
+}
+#titulo{
+    font-size: 80px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content:center;
+}
+#pokebola{
+    display: flex;
+    width: 100px;
+
+height: 100px;
+justify-content: center;
+}
